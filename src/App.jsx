@@ -9,7 +9,7 @@ import Header from './components/Header';
 import Dashboard from './components/Dashboard';
 import Profile from './components/Profile';
 import Leaderboard from './components/Leaderboard';
-import Homepage from './components/homepage.jsx';
+import Homepage from './components/Homepage.jsx';
 import { QUIZ_QUESTIONS } from './data/questions';
 import './App.css';
 
